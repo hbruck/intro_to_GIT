@@ -4,8 +4,11 @@
 
 first repro, with Marine Data Science in R
 
-you can edit it after cloning to the computer, push it to the internet after typing in R and saving...
+you can edit it after cloning to the computer, commit it to the internet after typing in R and saving...
 -go to Git tab (next to environment)
 -blue M next to path means that it was modified recently (the version on my harddrive is different than the file on github)
 -yellow ? means that the file is not being tracked
 -click checked box under Staged
+-then click Commit
+-click Pull to check that there were no other updates 
+-then click Push to send it to GIT
